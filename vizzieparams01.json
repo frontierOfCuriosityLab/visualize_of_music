@@ -1,0 +1,25 @@
+{
+	"pattrstorage" : 	{
+		"name" : "vizzieparams",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"patternizr::seed" : [ 0.3 ],
+					"patternizr::table" : [ 0.3 ],
+					"patternizr::xoff" : [ 0.334 ],
+					"patternizr::xoff[1]" : [ 0.1924 ],
+					"patternizr::xoff[2]" : [ 0.0 ],
+					"patternizr::xscale" : [ 0.25 ],
+					"patternizr::yscale" : [ 0.25 ],
+					"patternizr::zscale" : [ 1.0 ],
+					"patternizr::bfg_choice" : [ 2.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
