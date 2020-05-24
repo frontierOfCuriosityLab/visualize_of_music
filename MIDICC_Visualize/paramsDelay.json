@@ -1,0 +1,24 @@
+{
+	"pattrstorage" : 	{
+		"name" : "paramsDelay",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"grabbr::grabbrcontrols::source" : [ 0 ],
+					"grabbr::grabbrcontrols::viewsize" : [ 0.0 ],
+					"delayr::secdelay" : [ 58.999999999999908 ],
+					"delayr::framefb" : [ 0.622047244094488 ],
+					"delayr::xfade-val" : [ 1.0 ],
+					"mixfadr::operator" : [ 10.0 ],
+					"mixfadr::xfade-value" : [ 0.858267716535433 ],
+					"freezr::divider1" : [ 0.240157874015748 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
